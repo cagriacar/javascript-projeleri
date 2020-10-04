@@ -33,11 +33,6 @@ Html,css,javascript içeren örnek 10 proje
 10.Resim Yakınlaştırma
   -Genelde e-ticaret sitelerinde kullanılan bir yöntem
   
-  Otomatik Yazma Metni
-Metin
-indeks
-dizine göre metin göster
-artış indeksi
 
 
 
