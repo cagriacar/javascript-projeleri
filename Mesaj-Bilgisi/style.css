@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap");
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: White;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: "Poppins", sans-serif;
+    margin: 0 0 3rem;
+    min-height: 100vh;
+}
+/* Buton Tasarımı */
+button {
+    background-color: sandybrown;
+    color : black;
+    font-size: large;
+    font-family: inherit;
+    padding: 2rem;
+    border-radius: 5px;
+    border: none;
+}
+
+#container {
+position: fixed;
+bottom:  10px;
+right: 10px;
+
+
+}
+/* Mesaj Bilgisi */
+.mesaj {
+
+    background-color: greenyellow;
+    border-radius:  5px;
+    color: black;
+    padding: 2rem;
+    margin: 1rem;
+}
