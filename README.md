@@ -1,4 +1,4 @@
-# Javascript-Projeri
+# Javascript-Projeleri
 Html,css,javascript içeren örnek 10 proje 
 
 
